@@ -1,0 +1,11 @@
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\bin\Debug\netcoreapp2.1\Varpractice.deps.json
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\bin\Debug\netcoreapp2.1\Varpractice.runtimeconfig.json
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\bin\Debug\netcoreapp2.1\Varpractice.runtimeconfig.dev.json
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\bin\Debug\netcoreapp2.1\Varpractice.dll
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\bin\Debug\netcoreapp2.1\Varpractice.pdb
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\obj\Debug\netcoreapp2.1\Varpractice.csprojAssemblyReference.cache
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\obj\Debug\netcoreapp2.1\Varpractice.csproj.CoreCompileInputs.cache
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\obj\Debug\netcoreapp2.1\Varpractice.AssemblyInfoInputs.cache
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\obj\Debug\netcoreapp2.1\Varpractice.AssemblyInfo.cs
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\obj\Debug\netcoreapp2.1\Varpractice.dll
+C:\Users\kiv8873\Desktop\ICE03\Varpractice\obj\Debug\netcoreapp2.1\Varpractice.pdb
